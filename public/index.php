@@ -1,5 +1,3 @@
 <?php 
 
-echo 'loaded index.php';
-
-?>
+require_once '../app/bootstrap.php';
